@@ -11,4 +11,4 @@ Once you have created your own repository, start work by
 
 Refer to [I-D-with-yang-template/issues](https://github.com/IETF-OPS-AD/I-D-with-yang-template/issues) if you want to report issues or track candidate features (e.g., add metadata to skip I-D cloning but keep only YANG validation part).
 
-This repository leverages [martinthomson/internet-draft-template](https://github.com/martinthomson/internet-draft-template) to build I-Ds and extends it to provide required tools to support IETF documents which include YANG mdoules.
+This repository leverages [martinthomson/internet-draft-template](https://github.com/martinthomson/internet-draft-template) to build I-Ds and extends it to provide required tools to support IETF documents that include YANG mdoules.
